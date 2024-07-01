@@ -6,7 +6,7 @@ First, we resize the images fomr the dataset to make them uniform amd make them 
 Importing Conv2D to build a convolution neural network and compile a model.
 
 In test and src, there are:
-1. We have emotion detection py 
+1. Emotion detection py 
 2. Tensorflow py
 3. OpenCv py
 4. Build/Train Model py
